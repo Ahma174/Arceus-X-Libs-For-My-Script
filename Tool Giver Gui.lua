@@ -1,6 +1,6 @@
 local lib = {}
 
-local Script_Title = "Arceus X <font color=\"rgb(255, 0, 0)\">|</font> Ui Lib"
+local Script_Title = "Tool Giver <font color=\"rgb(255, 0, 0)\">|</font> Ui Lib"
 
 
 -- Instances:
@@ -82,7 +82,7 @@ Logo.BorderSizePixel = 0
 Logo.Position = UDim2.new(0.5, 0, 0.5, 0)
 Logo.Size = UDim2.new(0.75, 0, 0.75, 0)
 Logo.ZIndex = 2
-Logo.Image = "http://www.roblox.com/asset/?id=9178187770"
+Logo.Image = "http://www.roblox.com/asset/?id=130211677312613"
 Logo.ScaleType = Enum.ScaleType.Fit
 Logo.Active = false
 
